@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Xavier Criollo  
 💻 **Programmer | Software Engineer | Entrepreneur**  
 
-📍 Ecuador, Guayaquil | 📧 luisxavier_23@hotmail.com | 🌐 [yourportfolio.com]  
+📍 Ecuador, Guayaquil | 📧 silver_dev@versiltechnologies.com | 🌐 https://versiltechnologies.com/  
 
 ---
 
@@ -20,8 +20,8 @@ As a **software engineer**, I specialize in designing **efficient and scalable s
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/xavier-criollo-sánchez-19473b31a)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/silvertommy04?s=11)  
 
 🚀 Always open to collaborations, projects, and new opportunities!  
 
